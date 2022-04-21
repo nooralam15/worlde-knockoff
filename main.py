@@ -1,6 +1,7 @@
 #Import libraries
 import pygame
 import random
+import init
 
 
 
